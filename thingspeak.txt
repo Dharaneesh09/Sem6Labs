@@ -1,3 +1,6 @@
+
+link -> https://www.vultr.com/docs/install-and-configure-apache-hadoop-on-ubuntu-20-04/
+
 #include <SoftwareSerial.h>       //Software Serial library
 SoftwareSerial espSerial(2, 3);   //Pin 2 and 3 act as RX and TX. Connect them to TX and RX of ESP8266      
 #define DEBUG true
